@@ -3,7 +3,7 @@
 // Forked from https://gist.github.com/1809044
 // Available from https://gist.github.com/nichtich/5290675#file-deploy-php
 
-$TITLE   = 'Git Deployment Hamster';
+$TITLE   = 'http://13.126.248.147/deploy.php';
 $VERSION = '0.11';
 
 echo <<<EOT
